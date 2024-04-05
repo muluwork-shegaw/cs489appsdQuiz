@@ -1,0 +1,4 @@
+﻿* Allow to search contacts
+* Allow to create/add new contact
+* Allow update/edit, delete existing contacts
+* Able to merge similar contacts
